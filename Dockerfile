@@ -1,4 +1,4 @@
-FROM node:14
+FROM node:16
 
 LABEL "com.github.actions.name"="vue cli plugin s3 deploy action"
 LABEL "com.github.actions.description"="A Github action for vue-cli-plugin-s3-deploy"
